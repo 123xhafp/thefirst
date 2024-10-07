@@ -1,0 +1,37 @@
+[
+    {
+        "title":"huanghun",
+        "duration":"5:39",
+        "jianjie":"bossa",
+        "songUrl":"https://tgfczjpwswnhwlqbmuav.supabase.co/storage/v1/object/public/music%20player/music/huanghun.mp3",
+        "imgUrl":"https://tgfczjpwswnhwlqbmuav.supabase.co/storage/v1/object/public/music%20player/image/huanghun.png"
+    },
+    {
+        "title":"Lighting",
+        "duration":"4:14",
+        "jianjie":"hiphop",
+        "songUrl":"https://tgfczjpwswnhwlqbmuav.supabase.co/storage/v1/object/public/music%20player/music/Lighting.mp3",
+        "imgUrl":"https://tgfczjpwswnhwlqbmuav.supabase.co/storage/v1/object/public/music%20player/image/Lighting.png"
+    },
+    {
+        "title":"hongzhijian",
+        "duration":"5:16",
+        "jianjie":"Vocals",
+        "songUrl":"https://tgfczjpwswnhwlqbmuav.supabase.co/storage/v1/object/public/music%20player/music/hongzhijian.mp3",
+        "imgUrl":"https://tgfczjpwswnhwlqbmuav.supabase.co/storage/v1/object/public/music%20player/image/hongzhijian.png"
+    },
+    {
+        "title":"xiagelkj",
+        "duration":"3:30",
+        "jianjie":"Vocals",
+        "songUrl":"https://tgfczjpwswnhwlqbmuav.supabase.co/storage/v1/object/public/music%20player/music/xiagelukoujian.mp3",
+        "imgUrl":"https://tgfczjpwswnhwlqbmuav.supabase.co/storage/v1/object/public/music%20player/image/xiagelukoujian.png"
+    },
+    {
+        "title":"xujinhuan",
+        "duration":"3:26",
+        "jianjie":"hiphop",
+        "songUrl":"https://tgfczjpwswnhwlqbmuav.supabase.co/storage/v1/object/public/music%20player/music/xujinhuan.mp3",
+        "imgUrl":"https://tgfczjpwswnhwlqbmuav.supabase.co/storage/v1/object/public/music%20player/image/xujinhuan.png"
+    }
+]
